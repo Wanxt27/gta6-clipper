@@ -1,29 +1,31 @@
-# GTA 6 Clipper — "BOCORAN GTA 6 VERSI INDONESIA?! Ternyata Gue Yang Bikin!"
+# GTA 6 Clipper — "GTA 6 || SAD ENDING 🥺" (round 2)
 
 Entry for make.fun's `gta6-clipper-01` bounty: "Clip GTA 6 for the most YouTube views".
 
 ## The video
 
-A 32-second vertical YouTube Short (9:16, 1080x1920) with the concept
-"BOCORAN GTA 6 VERSI INDONESIA — GUE YANG BIKIN":
+A vertical YouTube Short (9:16) with the concept "GTA 6 || SAD ENDING":
 
-- **Hook (0–3s):** "ASTAGA! Ini bocoran GTA 6 versi Indonesia?!" — Jakarta at
-  night, neon, a police car chasing a motorbike, shaky camera, big text
-  "GTA 6 BOCOR?!"
-- **The moment (3–10s):** GTA-style scenes — a bakso cart vendor, an angkot,
-  Jakarta traffic, people running, game HUD (mini-map, HP bar, money).
-- **The reveal (10–24s):** phone screen typing a prompt in make.fun, the game
-  instantly playable, a character walking through Jakarta. Voiceover:
-  "Ini bukan GTA 6 asli bang. Ini gue bikin sendiri di make.fun!"
-- **The pitch (24–32s):** big text for 5 full seconds:
-  "BUAT GAME LU DI MAKE.FUN" + the make.fun logo. "Lu juga bisa! Ketik ide
-  lu, jadi game. Gratis di make.fun. Link di bio!"
+- **Hook:** GTA 6's SAD ENDING — after all the missions and the struggle,
+  this is how it ends. The final mission's heartbreaking turn: Jason and
+  Lucia gunned down on the bridge, Bonnie-and-Clyde style.
+- **The reaction:** a cut to iShowSpeed's stunned face as he watches the
+  ending live — jaw on the floor, clutching his chest, only "What?!" —
+  the exact shock every gamer felt.
+- **The pitch:** viewers can make their own GTA ending on make.fun — free,
+  just by typing. The description carries the bounty line, the play code,
+  and the referral link.
 
 The video is the entry: places go by its YouTube views, the most first.
 Top 20 share $500 USDC.
 
-- Video: https://www.youtube.com/shorts/iLkIMTW-7yE
-- Title: BOCORAN GTA 6 VERSI INDONESIA?! Ternyata Gue Yang Bikin!
+- Video: https://www.youtube.com/shorts/uCvMX3opi4Y
+- Title: GTA 6 || SAD ENDING 🥺
+- Channel: joyw (@joywn27)
+
+Round 1 ("BOCORAN GTA 6 VERSI INDONESIA?! Ternyata Gue Yang Bikin!",
+https://www.youtube.com/shorts/iLkIMTW-7yE) is replaced by this round 2
+entry as the final entry.
 
 ## This repository
 
